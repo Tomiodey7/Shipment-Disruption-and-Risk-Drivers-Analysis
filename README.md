@@ -49,7 +49,7 @@ Overall disruption rate: **61%** (3,065 out of 5,000 shipments disrupted)
 - Develop route redundancy plans for the top 7 disrupted corridors
 
 ## Dashboard Preview
-![Shipment Disruption Dashboard](./Shipment_Disruption_Dashboard.png)
+![Shipment Disruption Dashboard](./Shipment-Disruption-Dashboard.png)
 
 ## About
 Built by **Oluwatomisin Odeyale** 
